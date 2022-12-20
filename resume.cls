@@ -15,6 +15,7 @@
 % without any warranty.
 %
 % Created by Trey Hunner and modified by www.LaTeXTemplates.com
+% Modified by Ashlin James Poruthoor 2022
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
