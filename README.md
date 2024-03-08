@@ -1,5 +1,5 @@
 
-#### My updated resume (Last updated on 11/25/2023)
+#### My updated resume (Last updated on March 8, 2024)
 ___
 
 Please feel free to find my current resume by opening `resume.pdf`
