@@ -28,7 +28,7 @@
 \usepackage{ifthen} % Required for ifthenelse statements
 \usepackage{graphicx}
 \usepackage{xcolor}
-\definecolor{Mycolor}{HTML}{B52724}
+\definecolor{Mycolor}{HTML}{109fc8}
 
 \usepackage{hyperref}
 \hypersetup{
