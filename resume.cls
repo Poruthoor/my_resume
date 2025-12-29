@@ -33,9 +33,9 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=blue,
+    linkcolor=Mycolor,
     filecolor=magenta,      
-    urlcolor=blue,
+    urlcolor=Mycolor,
 }
 
 \pagestyle{empty} % Suppress page numbers
